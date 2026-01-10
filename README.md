@@ -6,7 +6,7 @@
 
 This project implements an institutional-grade trading agent for **NVIDIA (NVDA)** that fuses market structure analysis with non-linear time-series forecasting. Unlike retail models that rely on non-stationary price data, this system utilizes a **Graph Convolutional Network (GCN)** to extract latent sentiment from supply-chain news and fuses it with an **LSTM** network to forecast **Log-Returns** conditional on **Volatility Regimes**.
 
-The strategy was rigorously validated using **Walk-Forward Optimization** (Expanding Window) over 316 trading days, achieving a **Sharpe Ratio of 1.48** and proving robustness across Bull, Bear and Sideways markets.
+The strategy was rigorously validated using **Walk-Forward Optimization** (Expanding Window) over 316 trading days, achieving a **Sharpe Ratio of 1.48** and proving robustness across Bull,Bear and Sideways markets.
 
 ---
 
