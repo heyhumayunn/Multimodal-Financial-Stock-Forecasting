@@ -1,4 +1,4 @@
-# Multimodal Stock Forecasting: GCN-LSTM Alpha Agent
+# Multimodal GCN-LSTM Alpha Forecasting
 
 ---
 
