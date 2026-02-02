@@ -1,4 +1,4 @@
-# Multimodal GCN-LSTM Alpha Forecasting
+# Multimodal Financial Stock Forecasting
 
 ---
 
